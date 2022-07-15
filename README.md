@@ -8,4 +8,4 @@
 ### Run
 `python InGame-OverMinimapDisplay.py`
 
-Assumptions: The game is running in 1920x1080 resolution and the minimap ration is 100.
+Assumptions: The game is running in 1920x1080 resolution and the minimap ratio is 100.
